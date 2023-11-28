@@ -1,2 +1,2 @@
-# OOD-Assignment-Nine
-A program that uses the iterator pattern to display differnet U.S. states to the user. This program was written in Java.
+# US States
+A program that uses the iterator pattern to display different U.S. states to the user. This program was written in Java.
